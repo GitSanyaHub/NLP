@@ -3,8 +3,9 @@
 ## Источники
 
 1. [NLP Course at Constructor University Bremen](https://github.com/isadrtdinov/lsdl-cub)
-2. [Natural Language Processing course at CS HSE](https://github.com/ashaba1in/hse-nlp/tree/main/2024)
-3. [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://github.com/HKUDS/LightRAG)
-4. [Lightning-Hydra-Template](https://github.com/ashleve/lightning-hydra-template)
-5. [PyTorch Template for DL projects](https://github.com/Blinorot/pytorch_project_template)
-6. [Deploy ML](https://github.com/NameArtem/deployml_course)
+2. [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
+3. [Natural Language Processing course at CS HSE](https://github.com/ashaba1in/hse-nlp/tree/main/2024)
+4. [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://github.com/HKUDS/LightRAG)
+5. [Lightning-Hydra-Template](https://github.com/ashleve/lightning-hydra-template)
+6. [PyTorch Template for DL projects](https://github.com/Blinorot/pytorch_project_template)
+7. [Deploy ML](https://github.com/NameArtem/deployml_course)
