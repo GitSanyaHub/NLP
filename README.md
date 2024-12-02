@@ -12,3 +12,4 @@
 8. [Lightning-Hydra-Template](https://github.com/ashleve/lightning-hydra-template)
 9. [PyTorch Template for DL projects](https://github.com/Blinorot/pytorch_project_template)
 10. [Deploy ML](https://github.com/NameArtem/deployml_course)
+11. [Parameter-Efficient Fine-Tuning (PEFT): методы LoRA, Prefix tuning, Prompt tuning и Adapters](https://habr.com/ru/articles/791966/)
